@@ -1,0 +1,126 @@
+[13-Sep-2020 16:02:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Admin::real_escape_string() in /home/shebabar/public_html/sale/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/shebabar/public_html/sale/index.php on line 13
+[13-Sep-2020 16:02:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Admin::real_escape_string() in /home/shebabar/public_html/sale/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/shebabar/public_html/sale/index.php on line 13
+[13-Sep-2020 16:03:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Admin::real_escape_string() in /home/shebabar/public_html/sale/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/shebabar/public_html/sale/index.php on line 13
+[13-Sep-2020 16:04:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Admin::real_escape_string() in /home/shebabar/public_html/sale/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/shebabar/public_html/sale/index.php on line 13
+[13-Sep-2020 16:08:52 UTC] PHP Fatal error:  Uncaught Error: Cannot access private property Admin::$conn in /home/shebabar/public_html/sale/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/shebabar/public_html/sale/index.php on line 13
+[13-Sep-2020 16:09:46 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/shebabar/public_html/sale/index.php on line 14
+[13-Sep-2020 16:09:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/shebabar/public_html/sale/index.php on line 14
+[13-Sep-2020 16:09:52 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/shebabar/public_html/sale/index.php on line 14
+[13-Sep-2020 16:13:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/shebabar/public_html/sale/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/shebabar/public_html/sale/index.php on line 13
+[13-Sep-2020 16:14:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/shebabar/public_html/sale/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/shebabar/public_html/sale/index.php on line 13
+[13-Sep-2020 16:17:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/shebabar/public_html/sale/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/shebabar/public_html/sale/index.php on line 13
+[13-Sep-2020 16:23:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/shebabar/public_html/sale/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shebabar/public_html/sale/index.php on line 14
+[13-Sep-2020 16:24:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/shebabar/public_html/sale/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shebabar/public_html/sale/index.php on line 14
+[13-Sep-2020 16:51:29 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 16:55:09 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 16:55:19 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 16:55:34 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 16:55:59 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 16:57:57 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 16:57:58 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 16:58:24 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 16:58:33 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 16:59:48 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 17:04:14 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 17:04:18 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 17:07:08 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 17:07:12 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 17:07:16 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 17:07:59 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 17:09:48 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 17:11:43 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 17:12:55 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 17:12:58 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 17:18:19 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 17:18:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/shebabar/public_html/sale/includes/user.php:34
+Stack trace:
+#0 /home/shebabar/public_html/sale/index.php(15): Admin->login('manager', 'mushebamu')
+#1 {main}
+  thrown in /home/shebabar/public_html/sale/includes/user.php on line 34
+[13-Sep-2020 17:18:26 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 17:18:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/shebabar/public_html/sale/includes/user.php:34
+Stack trace:
+#0 /home/shebabar/public_html/sale/index.php(15): Admin->login('manager', 'mushebamu')
+#1 {main}
+  thrown in /home/shebabar/public_html/sale/includes/user.php on line 34
+[13-Sep-2020 17:19:30 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 17:19:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/shebabar/public_html/sale/includes/user.php:34
+Stack trace:
+#0 /home/shebabar/public_html/sale/index.php(15): Admin->login('nkn', ' b')
+#1 {main}
+  thrown in /home/shebabar/public_html/sale/includes/user.php on line 34
+[13-Sep-2020 17:21:45 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 32
+[13-Sep-2020 17:21:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/shebabar/public_html/sale/includes/user.php:35
+Stack trace:
+#0 /home/shebabar/public_html/sale/index.php(15): Admin->login('nkn', ' b')
+#1 {main}
+  thrown in /home/shebabar/public_html/sale/includes/user.php on line 35
+[13-Sep-2020 17:21:51 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 32
+[13-Sep-2020 17:21:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/shebabar/public_html/sale/includes/user.php:35
+Stack trace:
+#0 /home/shebabar/public_html/sale/index.php(15): Admin->login('manager', 'mushebamu')
+#1 {main}
+  thrown in /home/shebabar/public_html/sale/includes/user.php on line 35
+[13-Sep-2020 17:23:56 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 17:24:00 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 17:30:25 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 17:30:25 UTC] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home/shebabar/public_html/sale/includes/user.php on line 34
+[13-Sep-2020 17:30:25 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/shebabar/public_html/sale/includes/user.php:34
+Stack trace:
+#0 /home/shebabar/public_html/sale/index.php(15): Admin->login('manager', 'mushebamu')
+#1 {main}
+  thrown in /home/shebabar/public_html/sale/includes/user.php on line 34
+[13-Sep-2020 17:30:31 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 17:30:31 UTC] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home/shebabar/public_html/sale/includes/user.php on line 34
+[13-Sep-2020 17:30:31 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/shebabar/public_html/sale/includes/user.php:34
+Stack trace:
+#0 /home/shebabar/public_html/sale/index.php(15): Admin->login('manager', 'mushebamu')
+#1 {main}
+  thrown in /home/shebabar/public_html/sale/includes/user.php on line 34
+[13-Sep-2020 17:31:03 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/shebabar/public_html/sale/includes/user.php on line 31
+[13-Sep-2020 17:31:03 UTC] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home/shebabar/public_html/sale/includes/user.php on line 34
+[13-Sep-2020 17:31:03 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/shebabar/public_html/sale/includes/user.php:34
+Stack trace:
+#0 /home/shebabar/public_html/sale/index.php(15): Admin->login('manager', 'mushebamu')
+#1 {main}
+  thrown in /home/shebabar/public_html/sale/includes/user.php on line 34
+[13-Sep-2020 17:35:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Admin::login(), 1 passed in /home/shebabar/public_html/sale/index.php on line 17 and exactly 2 expected in /home/shebabar/public_html/sale/includes/user.php:28
+Stack trace:
+#0 /home/shebabar/public_html/sale/index.php(17): Admin->login('SELECT * FROM m...')
+#1 {main}
+  thrown in /home/shebabar/public_html/sale/includes/user.php on line 28
+[13-Sep-2020 17:35:37 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Admin::login(), 1 passed in /home/shebabar/public_html/sale/index.php on line 17 and exactly 2 expected in /home/shebabar/public_html/sale/includes/user.php:28
+Stack trace:
+#0 /home/shebabar/public_html/sale/index.php(17): Admin->login('SELECT * FROM m...')
+#1 {main}
+  thrown in /home/shebabar/public_html/sale/includes/user.php on line 28

@@ -1,0 +1,12 @@
+[16-Sep-2020 17:21:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/shebabar/public_html/includes/testfetch.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/shebabar/public_html/includes/testfetch.php on line 41
+[16-Sep-2020 17:24:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/shebabar/public_html/includes/testfetch.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/shebabar/public_html/includes/testfetch.php on line 41
+[16-Sep-2020 17:40:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/shebabar/public_html/includes/fetch.php on line 43
+[16-Sep-2020 17:45:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/shebabar/public_html/includes/fetch.php on line 43
+[16-Sep-2020 17:45:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/shebabar/public_html/includes/fetch.php on line 40
+[16-Sep-2020 17:47:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/shebabar/public_html/includes/fetch.php on line 40
